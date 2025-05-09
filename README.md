@@ -27,7 +27,7 @@ LibraTrack is a Java-based Library Management System with a user-friendly GUI bu
 
 ## 📸 Screenshots
 
-   ![Uploading Screenshot 2025-05-10 034710.png…]()
+   ![image alt](https://github.com/ravishankar1810/Library-Management-System-Using-Java/blob/58e22186f4ba08a11573193aca4ed29d40b0fddf/Screenshot%202025-05-10%20034710.png)
 
-   ![Uploading image.png…]()
+   ![image.png…]
 
